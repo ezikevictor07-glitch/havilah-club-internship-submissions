@@ -7,6 +7,19 @@
 # Print all of them with descriptive labels.
 
 # TODO: your code here
+#str
+name = "Uzor"
+#int
+age = int(20)
+#float
+height = 1.75
+#boolean
+is_student = True
+
+print (name)
+print(age)
+print(height)
+print("is_student")
 
 
 # ── Exercise 2: Temperature Converter ────────────────────────────────────────
@@ -14,10 +27,25 @@
 # Also convert in the opposite direction (Fahrenheit to Celsius).
 
 # TODO: your code here
+celcius = float(input("enter temperature in celcius:  "))
+fahrenheit = (celcius * 9/5) + 32
+print(f"{celcius}°C is equal to {fahrenheit}°F")
+
+fahrenheit = float(input("enter temperature in fahrenheit:  "))
+celcius = (fahrenheit - 32) * 5/9
+print(f"{fahrenheit}°F is equal to {celcius}°C")
 
 
 # ── Exercise 3: Age Calculator ────────────────────────────────────────────────
 # Ask for the user's name and birth year.
 # Calculate and print their current age and the year they will turn 30.
 
-# TODO: your code here
+# TODO: your code here 
+name = input("enter your name:  ")
+birth_year = int(input("enter your birth year:  "))
+current_year = 2023
+age = current_year - birth_year
+year_turn_30 = birth_year + 30
+print(f"Hello, {name}!")
+print(f"You are currently {age} years old.")
+print(f"You will turn 30 in the year {year_turn_30}.")
