@@ -6,13 +6,13 @@ Fill in every field below before your first commit. This file is how instructors
 
 | Field | Your Answer |
 |-------|-------------|
-| Full Name | |
-| GitHub Username | |
-| Email Address | |
-| Phone / WhatsApp | |
+| Full Name |Ezike Victor |
+| GitHub Username | uzor2007|
+| Email Address |ezikevictor07@gmail.com |
+| Phone / WhatsApp |08152223757 |
 | Cohort | Havilah Club Internship — Cohort |
-| Programme Start Date | |
-| LinkedIn Profile | |
+| Programme Start Date |21 september 2026 |
+| LinkedIn Profile | chibuzor victor ezike|
 
 ---
 
@@ -20,7 +20,7 @@ Fill in every field below before your first commit. This file is how instructors
 
 Write 2–3 sentences describing what you specifically want to be able to do by the end of the 8 weeks.
 
-> Replace this line with your learning objective.
+my goal is to develop practical skills in ai automation, workflow development, APIs, and related tools, and be able to build and test useful automation solutions independently by the end of the 8 weeks.
 
 ---
 
